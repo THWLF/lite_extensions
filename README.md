@@ -1,4 +1,4 @@
 # lite_extensions
 
-#Syntax
+## Syntax
 Contains Syntax Highliting Extensions
